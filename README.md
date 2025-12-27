@@ -20,19 +20,19 @@ I'm a **Software Engineering Student** at **University of Dhaka**, passionate ab
 <tr>
 <td valign="top" width="50%">
 
-**🎓 Education**
+** Education**
 - Software Engineering Student
 - University of Dhaka
 
-**💼 Interests**
-- 🤖 AI/ML
+**Interests**
+-  Artificial Intelligence /Machine Learning
 - ⚙️ Web Development
 
 
 </td>
 <td valign="top" width="50%">
 
-**🚀 What I Do**
+**What I Do**
 - Exploring and learning web technologies
 - Exploring AI/ML algorithms
 - Writing clean, efficient code
